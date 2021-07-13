@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there !  <img height="30" src=https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif></img>
 
-
-Here are some ideas to get you started:
+*18 yo pentester. Student at [Epitech Benin](https://epitech.bj).*
 
 - 🔭 I’m currently starting an internship at [ATS-AFRIQUE](https://www.ats-afrique.com/)
 - 🌱 I’m currently learning **Operation of TCP / IP Networks** on [OpenClassroom](https://openclassrooms.com/fr/courses/857447-apprenez-le-fonctionnement-des-reseaux-tcp-ip)
@@ -9,3 +8,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📫 How to reach me: **eliseejuniorg@gmail.com**
 - ⚡ Fun fact: I am a manga addict and also passionate about gaming;
+
+---
+***Tools & Technologies***
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
